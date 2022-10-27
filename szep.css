@@ -19,15 +19,18 @@ h2{
 title{
     font-size: 25px;
 }
-.jeg{
-    text-align: center;
+#jeg{
+    margin:auto;
+    width:50%;
+    padding:5px;
 }
-.kep{
-    width: 56px;
-    height: 50px;
+#kep{
+    width: 450px;
+    height: 300px;
     float:right;
+    border:1px solid blue;
 }
-.tabl{
-    border-collapse: collapse;
-    border:solid black;
+#tabl{
+    border-collapse:collapse;
+    border:1px solid black;
 }
