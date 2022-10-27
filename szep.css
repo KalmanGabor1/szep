@@ -23,6 +23,7 @@ title{
     margin:auto;
     width:50%;
     padding:5px;
+    
 }
 #kep{
     width: 450px;
@@ -33,4 +34,11 @@ title{
 #tabl{
     border-collapse:collapse;
     border:1px solid black;
+    text-align:center;
+    color:blue;
 }
+#tabl, td{
+    border:1px solid black;
+}
+
+
